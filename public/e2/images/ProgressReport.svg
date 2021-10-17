@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="648" height="241" viewBox="0 0 648 241">
+  <g id="Group_299" data-name="Group 299" transform="translate(-750 -397)">
+    <g id="Line_Chart5" data-name="Line Chart5" transform="translate(1073.5 522.5)">
+      <g id="Chart">
+        <g id="m1">
+          <path id="Path_2017" data-name="Path 2017" d="M0,186l57-75,57,15,57,60,57-54,57-66,57,75,57-45,57-45,57,15,57,33L627,0" transform="translate(-313.5 -115.5)" fill="none" stroke="#33425b" stroke-width="2"/>
+          <g id="Marks" transform="translate(-5 -5)">
+            <g id="Ellipse_52" data-name="Ellipse 52" transform="translate(-313.5 70.5)" fill="#fff" stroke="#ed3338" stroke-width="2">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="4" fill="none"/>
+            </g>
+            <g id="Ellipse_53" data-name="Ellipse 53" transform="translate(-256.5 -4.5)" fill="#fff" stroke="#ed3338" stroke-width="2">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="4" fill="none"/>
+            </g>
+            <g id="Ellipse_54" data-name="Ellipse 54" transform="translate(-199.5 10.5)" fill="#fff" stroke="#ed3338" stroke-width="2">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="4" fill="none"/>
+            </g>
+            <g id="Ellipse_55" data-name="Ellipse 55" transform="translate(-142.5 70.5)" fill="#fff" stroke="#ed3338" stroke-width="2">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="4" fill="none"/>
+            </g>
+            <g id="Ellipse_56" data-name="Ellipse 56" transform="translate(-85.5 16.5)" fill="#fff" stroke="#ed3338" stroke-width="2">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="4" fill="none"/>
+            </g>
+            <g id="Ellipse_57" data-name="Ellipse 57" transform="translate(-28.5 -49.5)" fill="#fff" stroke="#ed3338" stroke-width="2">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="4" fill="none"/>
+            </g>
+            <g id="Ellipse_58" data-name="Ellipse 58" transform="translate(28.5 25.5)" fill="#fff" stroke="#ed3338" stroke-width="2">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="4" fill="none"/>
+            </g>
+            <g id="Ellipse_59" data-name="Ellipse 59" transform="translate(85.5 -19.5)" fill="#fff" stroke="#ed3338" stroke-width="2">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="4" fill="none"/>
+            </g>
+            <g id="Ellipse_60" data-name="Ellipse 60" transform="translate(142.5 -64.5)" fill="#fff" stroke="#ed3338" stroke-width="2">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="4" fill="none"/>
+            </g>
+            <g id="Ellipse_61" data-name="Ellipse 61" transform="translate(199.5 -49.5)" fill="#fff" stroke="#ed3338" stroke-width="2">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="4" fill="none"/>
+            </g>
+            <g id="Ellipse_62" data-name="Ellipse 62" transform="translate(256.5 -16.5)" fill="#fff" stroke="#ed3338" stroke-width="2">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="4" fill="none"/>
+            </g>
+            <g id="Ellipse_63" data-name="Ellipse 63" transform="translate(313.5 -115.5)" fill="#fff" stroke="#ed3338" stroke-width="2">
+              <circle cx="5" cy="5" r="5" stroke="none"/>
+              <circle cx="5" cy="5" r="4" fill="none"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="X_Axis" data-name="X Axis">
+        <text id="Jan" transform="translate(-313.5 112.5)" fill="#444" font-size="12" font-family="ArialMT, Arial"><tspan x="-9.674" y="0">Jan</tspan></text>
+        <text id="Feb" transform="translate(-256.5 112.5)" fill="#444" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.339" y="0">Feb</tspan></text>
+        <text id="Mar" transform="translate(-199.5 112.5)" fill="#444" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.333" y="0">Mar</tspan></text>
+        <text id="Apr" transform="translate(-142.5 112.5)" fill="#444" font-size="12" font-family="ArialMT, Arial"><tspan x="-9.337" y="0">Apr</tspan></text>
+        <text id="May" transform="translate(-85.5 112.5)" fill="#444" font-size="12" font-family="ArialMT, Arial"><tspan x="-11.335" y="0">May</tspan></text>
+        <text id="Jun" transform="translate(-28.5 112.5)" fill="#444" font-size="12" font-family="ArialMT, Arial"><tspan x="-9.674" y="0">Jun</tspan></text>
+        <text id="Jul" transform="translate(28.5 112.5)" fill="#444" font-size="12" font-family="ArialMT, Arial"><tspan x="-7.67" y="0">Jul</tspan></text>
+        <text id="Aug" transform="translate(85.5 112.5)" fill="#444" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.676" y="0">Aug</tspan></text>
+        <text id="Sep" transform="translate(142.5 112.5)" fill="#444" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.676" y="0">Sep</tspan></text>
+        <text id="Oct" transform="translate(199.5 112.5)" fill="#444" font-size="12" font-family="ArialMT, Arial"><tspan x="-9.334" y="0">Oct</tspan></text>
+        <text id="Nov" transform="translate(256.5 112.5)" fill="#444" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.67" y="0">Nov</tspan></text>
+        <text id="Dec" transform="translate(313.5 112.5)" fill="#444" font-size="12" font-family="ArialMT, Arial"><tspan x="-10.67" y="0">Dec</tspan></text>
+      </g>
+    </g>
+    <g id="Group_298" data-name="Group 298">
+      <text id="Yearly" transform="translate(778 412)" fill="#ed3338" font-size="16" font-family="Rajdhani-SemiBold, Rajdhani" font-weight="600"><tspan x="-24.288" y="0">YEARLY</tspan></text>
+      <text id="Monthly" transform="translate(853 412)" fill="#444" font-size="16" font-family="Rajdhani-SemiBold, Rajdhani" font-weight="600"><tspan x="-30.528" y="0">MONTHLY</tspan></text>
+      <rect id="Rectangle_2048" data-name="Rectangle 2048" width="1" height="16" transform="translate(813 400)" fill="#757575"/>
+      <rect id="Rectangle_2049" data-name="Rectangle 2049" width="1" height="50" transform="translate(802.5 418.5) rotate(90)" fill="#ed3338"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,1 @@
+table.dataTable.fixedheader-floating,table.dataTable.fixedheader-locked{background-color:white;margin-top:0 !important;margin-bottom:0 !important}table.dataTable.fixedheader-floating{position:fixed !important}table.dataTable.fixedheader-locked{position:absolute !important}@media print{table.fixedheader-floating{display:none}}
